@@ -1,0 +1,15 @@
+body{
+	background-color: yellow;
+
+}
+#title {
+	color: red;
+}
+.link {
+	font-size: 30px;
+
+}
+a:hover { 
+	font-size: 60px;
+	color: green;
+}
